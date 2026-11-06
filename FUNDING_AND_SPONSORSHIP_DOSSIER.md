@@ -104,20 +104,31 @@ flowchart TD
 
 ---
 
-## 🎯 Target Beneficiary Impact Matrix
+## 🎯 Target Beneficiary Impact Matrix & Scope of Disabilities
 
-Our architecture extends far beyond deaf individuals to address a universal cross-section of communication disorders:
+Our architecture extends far beyond deaf and blind individuals to address a universal cross-section of 11 distinct communication, cognitive, and sensory groups:
+
+<div align="center">
+  <img src="open_scope.png" alt="Additional Users That Will Find Helpful This Dialogue Tool" width="100%" style="max-width: 850px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <p><em>Figure 1: Cross-Sectional Scope of Additional Users and Disabilities Empowered by the Lumalee Dialogue & Assistive Technology Platform.</em></p>
+</div>
 
 | Beneficiary Group | Key Barrier | Lumalee Intervention | Measurable Human Outcome |
 | :--- | :--- | :--- | :--- |
-| **Deaf & Non-Verbal Kids** | Cannot express emergent needs; isolated from non-signers. | 17-key rapid tactile AAC tablet + dual-tablet peer dialogue. | Elimination of frustration-induced tantrums; immediate social inclusion with family. |
-| **Pre-Lingual Deaf Students** | High rate of functional illiteracy; abstract phonetic barrier. | Adaptive visual language acquisition platform (Project B). | Mastery of written reading and writing; access to STEM and technical careers. |
-| **Deaf Individuals Learning Oral Speech** | Inability to hear own vocal pitch and formant placement. | 4K visual speech resonance and articulation coach (Project C). | Clearer phonetic articulation; independent practice without therapist cost. |
-| **Blind & Visually Impaired** | Spatial disorientation and navigation hazards in novel environments. | Sensory companion with low-latency audio spatial guidance (Project A). | Autonomous mobility; independent navigation of public and educational spaces. |
-| **Autistic Individuals & Non-Verbal** | Overstimulation by complex touch interfaces; verbal shutdown. | Predictable physical 17-key numpad input with fixed navigation. | Reliable emotional expression; reduced sensory overload. |
-| **Aphasia & Stroke Survivors** | Loss of verbal fluency despite intact intellect; memory loss. | Visual category catalogs with high-contrast icon-based recall. | Restored daily autonomy and communication with medical staff and caregivers. |
-| **Recent Immigrants & Illiterate Adults** | Complete linguistic barrier; unable to read written local language. | Universal icon-to-speech translation with dual-dialogue mode. | Immediate ability to communicate in hospitals, transit, and social services. |
-| **Elderly in Assisted Living** | Decreased fine motor control; tremor prevents touch-screen typing. | Large, raised mechanical keypad buttons with high haptic response. | Independent emergency and medical request signaling without caregiver fatigue. |
+| **🧠 Persons with Intellectual Disabilities (Core)** | Cognitive overload from complex, changing UI hierarchies. | Fixed spatial layout, instant audio/haptic cause-and-effect triggers. | Enhanced cognitive autonomy, reduced agitation, routine mastery. |
+| **🧏 Deaf & Non-Verbal Kids** | Cannot express emergent needs; isolated from non-signers. | 17-key rapid tactile AAC tablet + dual-tablet peer dialogue. | Elimination of frustration-induced tantrums; immediate social inclusion with family. |
+| **📚 Pre-Lingual Deaf Students** | High rate of functional illiteracy; abstract phonetic barrier. | Adaptive visual language acquisition platform (Project B). | Mastery of written reading and writing; access to STEM and technical careers. |
+| **🎙️ Deaf Learning Oral Speech** | Inability to hear own vocal pitch and formant placement. | 4K visual speech resonance and articulation coach (Project C). | Clearer phonetic articulation; independent practice without therapist cost. |
+| **🦯 Blind & Visually Impaired** | Spatial disorientation and navigation hazards in novel environments. | Sensory companion with low-latency audio spatial guidance (Project A). | Autonomous mobility; independent navigation of public and educational spaces. |
+| **🤲 Blind & Deaf (Deafblind)** | Total absence of both sight and hearing; cost of braille terminals. | 17-key mechanical tactile keypad navigated by muscle memory + haptics. | Restored physical communication channel without fragile braille displays. |
+| **🧩 Autistic Individuals & Non-Verbal** | Overstimulation by complex touch interfaces; verbal shutdown. | Predictable physical 17-key numpad input with fixed navigation. | Reliable emotional expression; reduced sensory overload. |
+| **💬 Aphasia & Stroke Survivors** | Loss of verbal fluency despite intact intellect; memory loss. | Visual category catalogs with high-contrast icon-based recall. | Restored daily autonomy and communication with medical staff and caregivers. |
+| **⚡ Attention & Activity Disorders (ADHD)** | Distractibility from visual noise; slow multi-step interfaces. | Zero-latency physical keypad shortcuts with minimal visual clutter. | Rapid interaction matching the speed of active thought; sustained focus. |
+| **📖 Dyslexia & Reading Challenges** | Inversion and cognitive exhaustion decoding text-heavy interfaces. | Iconographic buttons paired with multi-sensory text-to-speech audio. | Effortless comprehension without reading fatigue or shame. |
+| **✍️ Functional Illiterate Adults & Youth** | Unable to read written instructions, transit, or medical menus. | Purely pictorial action buttons vocalizing full-sentence requests. | Independent civic navigation and dignified access to healthcare. |
+| **🌍 Recent Immigrants & Non-Native Speakers** | Complete linguistic barrier; unable to read written local language. | Universal icon-to-speech translation with dual-dialogue mode. | Immediate ability to communicate in hospitals, transit, and social services. |
+| **🎒 Kids & Primary School Students** | Early speech delays and reluctance to speak in classrooms. | Gamified visual language acquisition and low-stress dialogue tools. | Accelerated vocabulary development and classroom participation confidence. |
+| **👵 Elderly in Assisted Living** | Decreased fine motor control; tremor prevents touch-screen typing. | Large, raised mechanical keypad buttons with high haptic response. | Independent emergency and medical request signaling without caregiver fatigue. |
 
 ---
 

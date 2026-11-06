@@ -15,15 +15,6 @@
 
 ---
 
-> ### 🕊️ The Philosophical & Spiritual Manifesto
-> 
-> *“The Works of Mercy as unity is the first essential and universal language incarnated and bearing fruit for every person since being a baby in their Mother’s womb.*  
-> *Charity is the inherent shared language of God to every mother which in silence speaks louder than all the wisdom and techniques of the world shouting together.”*  
-> 
-> — **Luis Angel Montiel Moreno**
-
----
-
 ## 📖 Executive Summary & Master Hub Vision
 
 **The Lumalee Project** is an integrated **Master Hub of Assistive Technology Solutions** dedicated to engineering high-impact, accessible, and human-centered software and hardware systems for persons with disabilities. 
@@ -145,21 +136,60 @@ Each solution in the Lumalee Hub has been engineered into working, verified prot
 
 ---
 
-## 🌍 The Universal Inclusivity Matrix
+## 🌐 Expanded Scope of Disabilities & User Beneficiaries
 
-While initially designed for deaf and blind beneficiaries, the underlying ergonomic, cognitive, and linguistic architecture of Lumalee inherently supports a broad spectrum of human communication needs:
+While initially pioneered for deaf and blind individuals, the underlying ergonomic, cognitive, and linguistic architecture of the Lumalee Hub inherently extends to an interconnected cross-section of communication, cognitive, and sensory differences:
 
-```mermaid
-graph LR
-    Core["Lumalee Adaptive Engine"]
+<div align="center">
+  <img src="open_scope.png" alt="Additional Users That Will Find Helpful This Dialogue Tool" width="100%" style="max-width: 850px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <p><em>Figure 1: Cross-Sectional Scope of Users and Disabilities Empowered by the Lumalee Dialogue & Assistive Technology Platform.</em></p>
+</div>
 
-    Core --> Deaf["Deaf & Hard of Hearing<br/>• Rapid expression without sign language<br/>• Written literacy & speech training"]
-    Core --> NonVerbal["Autism & Selective Mutism<br/>• Structured visual routines<br/>• Tactile numeric input predictability"]
-    Core --> Aphasia["Aphasia & Stroke Recovery<br/>• Word-finding cognitive assistance<br/>• Visual category reconstruction"]
-    Core --> ADHD["ADHD & Attention Disorders<br/>• High-contrast, minimal distraction<br/>• Rapid tactile execution"]
-    Core --> Immigrants["Recent Immigrants & Illiteracy<br/>• Universal icon-to-speech translation<br/>• Multi-lingual dual-dialogue"]
-    Core --> Elderly["Elderly & Cognitive Decline<br/>• Large tactile keys (17-key layout)<br/>• Simplified emergency & emotion pages"]
-```
+### Detailed Beneficiary Spectrum
+
+1. **🧠 Persons with Intellectual Disabilities (Central Core)**:
+   * **Challenge**: Complex interfaces with deep abstract navigation hierarchies cause cognitive overload, frustration, and disengagement.
+   * **Lumalee Solution**: Fixed, consistent spatial layout with immediate cause-and-effect button triggers, large visual icons, and simultaneous auditory and haptic feedback to reinforce comprehension and autonomy.
+
+2. **🧏 Deaf & Hard of Hearing**:
+   * **Challenge**: Communicating emergent physical, medical, or emotional needs to hearing individuals who do not know sign language; barriers to written literacy.
+   * **Lumalee Solution**: Ultra-fast 17-key tactile AAC grid, dual-device 1-on-1 dialogue protocol, adaptive visual syntax platform, and real-time visual speech coaching.
+
+3. **🦯 Blind & Deaf (Deafblind)**:
+   * **Challenge**: Complete absence of both visual and acoustic feedback channels; reliance on expensive, fragile tactile braille displays.
+   * **Lumalee Solution**: Standard physical 104-key PC numeric keypad (17 physical mechanical keys) navigated purely via spatial muscle memory and customized multi-pattern haptic vibration feedback.
+
+4. **🧩 Autistic (Autism Spectrum & Selective Mutism)**:
+   * **Challenge**: Overstimulation from unpredictable, flashy capacitive touchscreens; non-verbal shutdown during high-stress social situations.
+   * **Lumalee Solution**: Highly structured, predictable numerical physical routines with clear categorization (e.g., emotions, pain, food), soothing high-contrast palettes, and zero unpredictable popups.
+
+5. **💬 Aphasic (Stroke Recovery, Traumatic Brain Injury & Apraxia)**:
+   * **Challenge**: Intact intellect trapped behind severe word-finding difficulties (anomia) or impaired motor speech pathways.
+   * **Lumalee Solution**: Categorical catalog navigation allowing rapid phrase retrieval and vocalization without requiring complex typing or phonetic formulation.
+
+6. **⚡ Persons with Activity and Attention Disorders (ADHD)**:
+   * **Challenge**: Distraction from visual noise, multi-step sub-menus, and slow touchscreen response times.
+   * **Lumalee Solution**: Zero-latency tactile keypad execution, clean minimalist visual hierarchies, and rapid physical shortcuts that match the speed of active thought.
+
+7. **📖 Dyslexia (Reading & Orthographic Challenges)**:
+   * **Challenge**: Inversion, misinterpretation, and cognitive exhaustion when decoding dense textual lists.
+   * **Lumalee Solution**: Multi-sensory button presentation pairing high-clarity iconography, color-coded functional categories, and text-to-speech audio pronunciation.
+
+8. **✍️ Functional Illiterate Adults & Youth**:
+   * **Challenge**: Inability to read written instructions, menus, medical forms, or digital screens, leading to extreme social and economic vulnerability.
+   * **Lumalee Solution**: Purely pictorial communication pathways where iconographic action buttons vocalize articulate, dignified full-sentence requests.
+
+9. **🌍 Recent Immigrants & Cross-Linguistic Learners**:
+   * **Challenge**: Immediate need to navigate vital emergency, healthcare, transit, and administrative services without speaking or reading the host country's language.
+   * **Lumalee Solution**: Dual-tablet dialogue mode enabling real-time cross-language visual and vocalized dialogue between service providers and immigrants.
+
+10. **🎒 Kids & Primary School Students**:
+    * **Challenge**: Early language delays, fear of verbal articulation in classroom settings, and learning barriers during formative cognitive stages.
+    * **Lumalee Solution**: Gamified visual language acquisition, self-directed vocabulary exploration, and stress-free interactive dialogue tools.
+
+11. **👵 Elderly Persons (Age-Related Cognitive & Motor Decline)**:
+    * **Challenge**: Age-related hearing loss, vision degradation, arthritis, and motor tremors that make thin smartphones and touchscreens frustrating or unusable.
+    * **Lumalee Solution**: Large, raised physical keys with distinct tactile key-travel, simplified emergency and daily request templates, and high-visibility displays.
 
 ---
 
