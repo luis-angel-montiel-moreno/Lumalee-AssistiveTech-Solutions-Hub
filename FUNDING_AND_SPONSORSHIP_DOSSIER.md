@@ -98,16 +98,18 @@ flowchart TD
 
 ### Verified Demonstration Evidence:
 
-1. **[Blindness Project A — Companion for the Blind (2m 17s)](demos/blindness-assistiveTech-solutions/Project%20A%20-%20Companion%20for%20blind_short.mp4)**
+> 📦 **Official GitHub Demonstrations Release**: [v1.0.0-demos](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/tag/v1.0.0-demos) — All videos are available for high-speed CDN streaming and direct download.
+
+1. **[Blindness Project A — Companion for the Blind (2m 17s)](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Companion.for.blind_short.mp4)**
    * *Technology*: Edge computer vision, scene parsing, spatial audio synthesis.
    * *Clinical Goal*: Autonomous mobility, obstacle detection, and confident spatial navigation.
-2. **[Deafness Project A — Tablet Augmentative Communication (AAC) System (8m 14s)](demos/deafness-assistiveTech-solutions/Project%20A%20-%20Tablet%20augmented%20and%20alternative%20communication%20system_short.mp4)**
+2. **[Deafness Project A — Tablet Augmentative Communication (AAC) System (8m 14s)](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Tablet.augmented.and.alternative.communication.system_short.mp4)**
    * *Technology*: Physical-to-virtual hardware mapping (17-key numeric keypad binding + touchscreen), nested Category/Page catalogs, TTS vocalization, haptic vibration, and real-time dual-tablet dialogue mode.
    * *Clinical Goal*: Instant, stress-free expression of complex phrases and bilateral dialogue between deaf and hearing persons.
-3. **[Deafness Project B — Visual Adaptive Platform for Language Acquisition (5m 28s)](demos/deafness-assistiveTech-solutions/Project%20B%20-%20Visual%20Adaptative%20Platform%20for%20language%20aquisition_short.mp4)**
+3. **[Deafness Project B — Visual Adaptive Platform for Language Acquisition (5m 28s)](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.B.-.Visual.Adaptative.Platform.for.language.aquisition_short.mp4)**
    * *Technology*: Visual syntactic scaffolding, adaptive difficulty calibration, interactive grammar composition without phonetic prerequisites.
    * *Clinical Goal*: Full written reading and writing fluency, academic inclusion, and professional career readiness.
-4. **[Deafness Project C — Speak Trainer for Deaf Persons (1m 47s)](demos/deafness-assistiveTech-solutions/Project%20C%20-%20Speak%20trainer%20for%20deaf%20persons_short.mp4)**
+4. **[Deafness Project C — Speak Trainer for Deaf Persons (1m 47s)](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.C.-.Speak.trainer.for.deaf.persons_short.mp4)**
    * *Technology*: High-resolution acoustic FFT analysis, formant contour mapping, visual resonance biofeedback gamification.
    * *Clinical Goal*: Oral speech articulation, vocal pitch modulation, and self-directed speech rehabilitation without clinical dependency.
 

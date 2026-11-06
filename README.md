@@ -76,12 +76,14 @@ Each solution in the Lumalee Hub has been engineered into working, verified prot
 
 ### 🎥 Demonstration Video Quick-Access Table
 
-| Division | Project Name | Focus & Innovation | Video Demonstration | Target Format / Size |
+> 📦 **Official GitHub Demonstrations Release**: [v1.0.0-demos](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/tag/v1.0.0-demos) — All videos are hosted on GitHub's fast global CDN for direct streaming and immediate download without file size restrictions or repository bloat.
+
+| Division | Project Name | Focus & Innovation | Video Demonstration (CDN Stream) | Target Format / Size |
 | :--- | :--- | :--- | :---: | :---: |
-| **Blindness** | **Project A — Companion for Blind** | Audio-visual spatial perception & daily environment companion | [▶️ Watch Demo Video](demos/blindness-assistiveTech-solutions/Project%20A%20-%20Companion%20for%20blind_short.mp4) | H.264 MP4 (26 MB) |
-| **Deafness** | **Project A — Tablet AAC System** | 17-key tactile keypad AAC tablet with rapid page/category navigation | [▶️ Watch Demo Video](demos/deafness-assistiveTech-solutions/Project%20A%20-%20Tablet%20augmented%20and%20alternative%20communication%20system_short.mp4) | H.264 MP4 (27 MB) |
-| **Deafness** | **Project B — Visual Adaptive Platform** | Interactive visual framework for reading, writing & language acquisition | [▶️ Watch Demo Video](demos/deafness-assistiveTech-solutions/Project%20B%20-%20Visual%20Adaptative%20Platform%20for%20language%20aquisition_short.mp4) | H.264 MP4 (34 MB) |
-| **Deafness** | **Project C — Speak Trainer** | Visual acoustic biofeedback & vocal resonance coach for deaf persons | [▶️ Watch Demo Video](demos/deafness-assistiveTech-solutions/Project%20C%20-%20Speak%20trainer%20for%20deaf%20persons_short.mp4) | H.264 MP4 (67 MB) |
+| **Blindness** | **Project A — Companion for Blind** | Audio-visual spatial perception & daily environment companion | [▶️ Watch / Stream Video](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Companion.for.blind_short.mp4) | H.264 MP4 (27 MB) |
+| **Deafness** | **Project A — Tablet AAC System** | 17-key tactile keypad AAC tablet with rapid page/category navigation | [▶️ Watch / Stream Video](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Tablet.augmented.and.alternative.communication.system_short.mp4) | H.264 MP4 (28 MB) |
+| **Deafness** | **Project B — Visual Adaptive Platform** | Interactive visual framework for reading, writing & language acquisition | [▶️ Watch / Stream Video](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.B.-.Visual.Adaptative.Platform.for.language.aquisition_short.mp4) | H.264 MP4 (35 MB) |
+| **Deafness** | **Project C — Speak Trainer** | Visual acoustic biofeedback & vocal resonance coach for deaf persons | [▶️ Watch / Stream Video](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.C.-.Speak.trainer.for.deaf.persons_short.mp4) | H.264 MP4 (70 MB) |
 
 ---
 
@@ -89,7 +91,7 @@ Each solution in the Lumalee Hub has been engineered into working, verified prot
 
 #### 1. 👁️ Blindness Solutions: Project A — Companion for the Blind
 * **Sub-Repository**: [`Lumaleee-Blind-AssistiveTech-Solutions-Hub/lumalee-companion-for-blind`](Lumaleee-Blind-AssistiveTech-Solutions-Hub/)
-* **Demo File**: [`demos/blindness-assistiveTech-solutions/Project A - Companion for blind_short.mp4`](demos/blindness-assistiveTech-solutions/Project%20A%20-%20Companion%20for%20blind_short.mp4)
+* **Demo Video**: [▶️ Watch / Stream on GitHub CDN](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Companion.for.blind_short.mp4) (or [browse local file](demos/blindness-assistiveTech-solutions/Project%20A%20-%20Companion%20for%20blind_short.mp4))
 * **The Challenge**: Visually impaired persons navigate a world predominantly designed for sighted individuals, facing physical navigation hazards, cognitive fatigue, and barriers to independent environmental perception.
 * **The Solution**: An intelligent sensory companion providing real-time audio and contextual feedback. It captures environmental feeds, parses spatial orientation, identifies everyday obstacles, and converts spatial cues into low-latency verbal and acoustic feedback, granting the user autonomous environmental confidence.
 * **Key Capabilities**:
@@ -100,7 +102,7 @@ Each solution in the Lumalee Hub has been engineered into working, verified prot
 ---
 
 #### 2. 🧏 Deafness Solutions: Project A — Tablet Augmentative & Alternative Communication (AAC) System
-* **Demo File**: [`demos/deafness-assistiveTech-solutions/Project A - Tablet augmented and alternative communication system_short.mp4`](demos/deafness-assistiveTech-solutions/Project%20A%20-%20Tablet%20augmented%20and%20alternative%20communication%20system_short.mp4)
+* **Demo Video**: [▶️ Watch / Stream on GitHub CDN](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Tablet.augmented.and.alternative.communication.system_short.mp4) (or [browse local file](demos/deafness-assistiveTech-solutions/Project%20A%20-%20Tablet%20augmented%20and%20alternative%20communication%20system_short.mp4))
 * **The Challenge**: Deaf individuals—especially non-verbal children or those without immediate access to sign-language fluent conversation partners—often struggle to communicate basic needs, leading to emotional isolation and depression. Traditional software AAC systems are slow, cognitively overwhelming, and touch-screen only (lacking tactile feedback).
 * **The Solution**: An advanced AAC platform featuring strict **physical-to-virtual hardware mapping**. Bound to an affordable standard 17-key PC numeric keypad (and touch display), users can navigate nested categories and pages at lightning speed, triggering vocalized sentences, haptic responses, and structured replies.
 * **Key Capabilities**:
@@ -113,7 +115,7 @@ Each solution in the Lumalee Hub has been engineered into working, verified prot
 ---
 
 #### 3. 📚 Deafness Solutions: Project B — Visual Adaptive Platform for Language Acquisition
-* **Demo File**: [`demos/deafness-assistiveTech-solutions/Project B - Visual Adaptative Platform for language aquisition_short.mp4`](demos/deafness-assistiveTech-solutions/Project%20B%20-%20Visual%20Adaptative%20Platform%20for%20language%20aquisition_short.mp4)
+* **Demo Video**: [▶️ Watch / Stream on GitHub CDN](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.B.-.Visual.Adaptative.Platform.for.language.aquisition_short.mp4) (or [browse local file](demos/deafness-assistiveTech-solutions/Project%20B%20-%20Visual%20Adaptative%20Platform%20for%20language%20aquisition_short.mp4))
 * **The Challenge**: For deaf children who have never heard spoken language, learning to read and write written phonetic language is like deciphering an abstract code. Without written literacy, individuals are blocked from higher education, professional careers, and modern digital society.
 * **The Solution**: An adaptive, highly visual learning environment that connects conceptual mental imagery with written orthography and grammatical syntax without requiring auditory phonetics.
 * **Key Capabilities**:
@@ -125,7 +127,7 @@ Each solution in the Lumalee Hub has been engineered into working, verified prot
 ---
 
 #### 4. 🎙️ Deafness Solutions: Project C — Speak Trainer for Deaf Persons
-* **Demo File**: [`demos/deafness-assistiveTech-solutions/Project C - Speak trainer for deaf persons_short.mp4`](demos/deafness-assistiveTech-solutions/Project%20C%20-%20Speak%20trainer%20for%20deaf%20persons_short.mp4)
+* **Demo Video**: [▶️ Watch / Stream on GitHub CDN](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.C.-.Speak.trainer.for.deaf.persons_short.mp4) (or [browse local file](demos/deafness-assistiveTech-solutions/Project%20C%20-%20Speak%20trainer%20for%20deaf%20persons_short.mp4))
 * **The Challenge**: Deaf persons learning to speak face the fundamental obstacle of not being able to hear their own vocal output to modulate pitch, tongue placement, vowel formants, and volume. Conventional speech therapy is often cost-prohibitive, geographically inaccessible, and frustrating.
 * **The Solution**: An ultra-high-precision, real-time visual speech coaching platform. It analyzes acoustic input via microphone and renders instantaneous, intuitive visual biofeedback (pitch contours, phonetic resonance maps, and articulation targets) on a 4K interface.
 * **Key Capabilities**:
