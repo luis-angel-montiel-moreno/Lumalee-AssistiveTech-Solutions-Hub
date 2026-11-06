@@ -14,7 +14,8 @@
 | **Current Stage** | Functional Working Prototypes & Verified Demonstration Phase |
 | **Target Funding Scope** | **$50,000 – $500,000 USD** (Phased Pilot & Global Open-Hardware Scaling) |
 | **Open-Source License** | [Apache License 2.0](LICENSE) |
-| **Inquiries & Proposals** | St. Joseph IT Services / The Lumalee Project Hub |
+| **Contact Email** | [induccion.genai.thc@gmail.com](mailto:induccion.genai.thc@gmail.com) |
+| **Inquiries & Proposals** | Luis Angel Montiel Moreno / St. Joseph IT Services |
 
 </div>
 
@@ -221,9 +222,11 @@ Driven by an ethical imperative of universal charity and human dignity, he leads
 
 We welcome conversations with grant officers, institutional foundations, assistive technology departments, and philanthropic patrons.
 
+* **Email**: [induccion.genai.thc@gmail.com](mailto:induccion.genai.thc@gmail.com)
+* **LinkedIn**: [linkedin.com/in/luis-angel-montiel-moreno-053160215](https://www.linkedin.com/in/luis-angel-montiel-moreno-053160215)
+* **GitHub Profile**: [@luis-angel-montiel-moreno](https://github.com/luis-angel-montiel-moreno)
 * **Project Repository**: [github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub)
 * **Master Demonstrations**: Located under `/demos` in the repository.
-* **Lead Contact**: Luis Angel Montiel Moreno via GitHub or St. Joseph IT Services.
 
 ---
 

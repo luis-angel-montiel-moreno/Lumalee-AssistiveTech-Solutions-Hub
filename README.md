@@ -225,6 +225,8 @@ To accelerate the transition of these prototypes into clinical trials, certified
 *Staff Principal Tech Lead & AI / Big Data Consultant*  
 *Founder & Lead Architect, The Lumalee Project*
 
+- **Email**: [induccion.genai.thc@gmail.com](mailto:induccion.genai.thc@gmail.com)
+- **LinkedIn**: [linkedin.com/in/luis-angel-montiel-moreno-053160215](https://www.linkedin.com/in/luis-angel-montiel-moreno-053160215)
 - **GitHub**: [@luis-angel-montiel-moreno](https://github.com/luis-angel-montiel-moreno)
 - **Organization**: St. Joseph IT Services / Lumalee AssistiveTech Hub
 
