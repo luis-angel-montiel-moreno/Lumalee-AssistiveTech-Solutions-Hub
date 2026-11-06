@@ -92,6 +92,9 @@ Each solution in the Lumalee Hub has been engineered into working, verified prot
 #### 1. 👁️ Blindness Solutions: Project A — Companion for the Blind
 * **Sub-Repository**: [`Lumaleee-Blind-AssistiveTech-Solutions-Hub/lumalee-companion-for-blind`](Lumaleee-Blind-AssistiveTech-Solutions-Hub/)
 * **Demo Video**: [▶️ Watch / Stream on GitHub CDN](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Companion.for.blind_short.mp4) (or [browse local file](demos/blindness-assistiveTech-solutions/Project%20A%20-%20Companion%20for%20blind_short.mp4))
+
+https://github.com/user-attachments/assets/c52c7667-1e56-4ee1-a6ab-7383e2173022
+
 * **The Challenge**: Visually impaired persons navigate a world predominantly designed for sighted individuals, facing physical navigation hazards, cognitive fatigue, and barriers to independent environmental perception.
 * **The Solution**: An intelligent sensory companion providing real-time audio and contextual feedback. It captures environmental feeds, parses spatial orientation, identifies everyday obstacles, and converts spatial cues into low-latency verbal and acoustic feedback, granting the user autonomous environmental confidence.
 * **Key Capabilities**:

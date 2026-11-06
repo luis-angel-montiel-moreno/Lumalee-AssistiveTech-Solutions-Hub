@@ -103,6 +103,9 @@ flowchart TD
 1. **[Blindness Project A — Companion for the Blind (2m 17s)](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Companion.for.blind_short.mp4)**
    * *Technology*: Edge computer vision, scene parsing, spatial audio synthesis.
    * *Clinical Goal*: Autonomous mobility, obstacle detection, and confident spatial navigation.
+
+https://github.com/user-attachments/assets/c52c7667-1e56-4ee1-a6ab-7383e2173022
+
 2. **[Deafness Project A — Tablet Augmentative Communication (AAC) System (8m 14s)](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Tablet.augmented.and.alternative.communication.system_short.mp4)**
    * *Technology*: Physical-to-virtual hardware mapping (17-key numeric keypad binding + touchscreen), nested Category/Page catalogs, TTS vocalization, haptic vibration, and real-time dual-tablet dialogue mode.
    * *Clinical Goal*: Instant, stress-free expression of complex phrases and bilateral dialogue between deaf and hearing persons.
