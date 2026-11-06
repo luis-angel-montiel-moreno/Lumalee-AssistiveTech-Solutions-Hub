@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Heavy raw media files (keep only optimized web/GitHub _short.mp4)
+*.mov
+*.m4v
+demos/**/*.mov
+demos/**/*.m4v
+
