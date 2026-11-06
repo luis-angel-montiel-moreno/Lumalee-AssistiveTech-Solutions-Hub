@@ -13,6 +13,7 @@
 | **Organization / Repository** | [Lumalee-AssistiveTech-Solutions-Hub](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub) |
 | **Current Stage** | Functional Working Prototypes & Verified Demonstration Phase |
 | **Target Funding Scope** | **$50,000 – $500,000 USD** (Phased Pilot & Global Open-Hardware Scaling) |
+| **Open-Source License** | [Apache License 2.0](LICENSE) |
 | **Inquiries & Proposals** | St. Joseph IT Services / The Lumalee Project Hub |
 
 </div>

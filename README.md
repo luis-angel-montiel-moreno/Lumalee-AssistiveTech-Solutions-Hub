@@ -5,7 +5,7 @@
 # 🌟 The Lumalee Project: AssistiveTech Solutions Hub
 ### *Engineering Human Dignity, Inclusive Communication, and Sensory Autonomy*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![AssistiveTech](https://img.shields.io/badge/Domain-Assistive%20Technology-purple.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-Multi--Modal%20%7C%20Hardware%20Mapped-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Active%20Prototypes%20%26%20Demos-success.svg)]()
