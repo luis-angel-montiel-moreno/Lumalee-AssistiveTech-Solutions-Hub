@@ -11,7 +11,7 @@ You will see several sub repos being added to this repo hub.
 In the present time I'm focused on developing assistive tech solutions for the following disabilities:
 
 - Blindness: See the Blind AssistiveTech Solutions Hub.
-- Deanes
+- Deafness
 - Autism
 - Prosthetic users  
 - Down Syndrome
