@@ -106,6 +106,9 @@ https://github.com/user-attachments/assets/c52c7667-1e56-4ee1-a6ab-7383e2173022
 
 #### 2. 🧏 Deafness Solutions: Project A — Tablet Augmentative & Alternative Communication (AAC) System
 * **Demo Video**: [▶️ Watch / Stream on GitHub CDN](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.A.-.Tablet.augmented.and.alternative.communication.system_short.mp4) (or [browse local file](demos/deafness-assistiveTech-solutions/Project%20A%20-%20Tablet%20augmented%20and%20alternative%20communication%20system_short.mp4))
+
+https://github.com/user-attachments/assets/5ec7a152-f65c-464a-8442-142eb800370c
+
 * **The Challenge**: Deaf individuals—especially non-verbal children or those without immediate access to sign-language fluent conversation partners—often struggle to communicate basic needs, leading to emotional isolation and depression. Traditional software AAC systems are slow, cognitively overwhelming, and touch-screen only (lacking tactile feedback).
 * **The Solution**: An advanced AAC platform featuring strict **physical-to-virtual hardware mapping**. Bound to an affordable standard 17-key PC numeric keypad (and touch display), users can navigate nested categories and pages at lightning speed, triggering vocalized sentences, haptic responses, and structured replies.
 * **Key Capabilities**:
@@ -119,6 +122,9 @@ https://github.com/user-attachments/assets/c52c7667-1e56-4ee1-a6ab-7383e2173022
 
 #### 3. 📚 Deafness Solutions: Project B — Visual Adaptive Platform for Language Acquisition
 * **Demo Video**: [▶️ Watch / Stream on GitHub CDN](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.B.-.Visual.Adaptative.Platform.for.language.aquisition_short.mp4) (or [browse local file](demos/deafness-assistiveTech-solutions/Project%20B%20-%20Visual%20Adaptative%20Platform%20for%20language%20aquisition_short.mp4))
+
+https://github.com/user-attachments/assets/6546d701-a9b4-48ff-983f-878f04a96539
+
 * **The Challenge**: For deaf children who have never heard spoken language, learning to read and write written phonetic language is like deciphering an abstract code. Without written literacy, individuals are blocked from higher education, professional careers, and modern digital society.
 * **The Solution**: An adaptive, highly visual learning environment that connects conceptual mental imagery with written orthography and grammatical syntax without requiring auditory phonetics.
 * **Key Capabilities**:
@@ -131,6 +137,9 @@ https://github.com/user-attachments/assets/c52c7667-1e56-4ee1-a6ab-7383e2173022
 
 #### 4. 🎙️ Deafness Solutions: Project C — Speak Trainer for Deaf Persons
 * **Demo Video**: [▶️ Watch / Stream on GitHub CDN](https://github.com/luis-angel-montiel-moreno/Lumalee-AssistiveTech-Solutions-Hub/releases/download/v1.0.0-demos/Project.C.-.Speak.trainer.for.deaf.persons_short.mp4) (or [browse local file](demos/deafness-assistiveTech-solutions/Project%20C%20-%20Speak%20trainer%20for%20deaf%20persons_short.mp4))
+
+https://github.com/user-attachments/assets/9dadbbc7-a0aa-4683-8432-0348c0df5390
+
 * **The Challenge**: Deaf persons learning to speak face the fundamental obstacle of not being able to hear their own vocal output to modulate pitch, tongue placement, vowel formants, and volume. Conventional speech therapy is often cost-prohibitive, geographically inaccessible, and frustrating.
 * **The Solution**: An ultra-high-precision, real-time visual speech coaching platform. It analyzes acoustic input via microphone and renders instantaneous, intuitive visual biofeedback (pitch contours, phonetic resonance maps, and articulation targets) on a 4K interface.
 * **Key Capabilities**:
